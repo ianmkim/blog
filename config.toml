@@ -8,12 +8,17 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=3 # articles per page
+paginate=10# articles per page
 
 [params]
-	mode="auto" # color-mode → light,dark,toggle or auto
-	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "A collection of mistakes, lessons, and poorly conceived ideas. A documentation of my stumblings through Computer Science and Philosophy."
+    mode="toggle" # color-mode → light,dark,toggle or auto
+    subtitle = "A collection of mistakes, lessons, and poorly conceived ideas. A documentation of my stumblings through Computer Science and Philosophy."
+    favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
+    og_image = "https://raw.githubusercontent.com/athul/archie/master/images/archie-dark.png"
+# mode = "auto"
+    useCDN = true
+    description = "Personal blog of Ian Kim"
+
 
 # Social Tags
 
