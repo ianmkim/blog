@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stumbling Blog</title>
-    <link>https://blog.ianmkim.com/</link>
-    <description>Recent content on Stumbling Blog</description>
+    <title>AI on Stumbling Blog</title>
+    <link>https://blog.ianmkim.com/tags/ai/</link>
+    <description>Recent content in AI on Stumbling Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© Ian Kim 2022</copyright>
-    <lastBuildDate>Sun, 13 Mar 2022 15:30:07 -0400</lastBuildDate><atom:link href="https://blog.ianmkim.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://blog.ianmkim.com/about/</link>
-      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.ianmkim.com/about/</guid>
-      <description>This blog chronicles random thoughts, computer science projects, and various misadventures in entrepreneurship.
-I&amp;rsquo;m a student of Computer Science and Philosophy at Dartmouth College with experience working in both early stage startups and established revenue-generating companies.
-Highlights include raising seed capital for a space robotics venture, interning at a profitable defense-tech robotics company, and working directly with customers in conducting the largest-ever study of sensory-overload meltdowns with the Children&amp;rsquo;s Hospital of Orange County.</description>
-    </item>
-    
-    <item>
-      <title>Fayerabend: The Last Savior of Science</title>
-      <link>https://blog.ianmkim.com/posts/fayerabend_savior_of_science/</link>
-      <pubDate>Sun, 13 Mar 2022 15:30:07 -0400</pubDate>
-      
-      <guid>https://blog.ianmkim.com/posts/fayerabend_savior_of_science/</guid>
-      <description>Introduction Critics of Feyerabend all follow patterns of behavior undeniably similar to each other. No matter which way they turn, a simple extension of their logic regresses to the beginning of Feyerabend’s argument. In no other criticism is this more apparent than in Chalmers’ “middle lane” counterargument. When drawn to its conclusions, we see that Chalmers puts himself in a double bind. If he wishes to end anarchism, Chalmers must make dogmatic claims which stand at the beginning of Feyerabend’s normative arguments.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 07 Nov 2021 15:54:52 -0400</lastBuildDate><atom:link href="https://blog.ianmkim.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seize the Means of Production (The Right Way)</title>
       <link>https://blog.ianmkim.com/posts/seize_the_means_of_production/</link>

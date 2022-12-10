@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethics on Stumbling Blog</title>
+    <link>https://blog.ianmkim.com/tags/ethics/</link>
+    <description>Recent content in ethics on Stumbling Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© Ian Kim 2022</copyright>
+    <lastBuildDate>Fri, 15 Oct 2021 15:47:00 -0400</lastBuildDate><atom:link href="https://blog.ianmkim.com/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Duty to Drive</title>
+      <link>https://blog.ianmkim.com/posts/duty_to_drive/</link>
+      <pubDate>Fri, 15 Oct 2021 15:47:00 -0400</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/duty_to_drive/</guid>
+      <description>The Duty to Drive Given the promise of safer-than-human levels of proficiency, mandating self-driving cars seem like an attractive proposition at face value. The following argument will prove that such a mandate would be a severe violation of man’s right to an agentive life which outweighs its benefits. More importantly, the very acceptance of unsupervised self-driving cars represents a mass abdication of moral responsibility. This abdication will cheapen moral agency and set a precedent for other technologies that our moral intuitions reject.</description>
+    </item>
+    
+  </channel>
+</rss>

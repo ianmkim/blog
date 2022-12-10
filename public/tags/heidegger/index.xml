@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heidegger on Stumbling Blog</title>
+    <link>https://blog.ianmkim.com/tags/heidegger/</link>
+    <description>Recent content in Heidegger on Stumbling Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© Ian Kim 2022</copyright>
+    <lastBuildDate>Fri, 29 Jan 2021 16:36:59 -0400</lastBuildDate><atom:link href="https://blog.ianmkim.com/tags/heidegger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reviving AI through Heidegger</title>
+      <link>https://blog.ianmkim.com/posts/reviving_ai_through_heidegger/</link>
+      <pubDate>Fri, 29 Jan 2021 16:36:59 -0400</pubDate>
+      
+      <guid>https://blog.ianmkim.com/posts/reviving_ai_through_heidegger/</guid>
+      <description>Introduction When the term Artificial Intelligence was coined at the Dartmouth Workshop in 1956, the organizers defined AI beyond narrow automata theory or simply solving problems more generally; the explicit intention was to re-create human cognition (McCarthy, 1). Unfortunately, we have considerably strayed from those goals. Today&amp;rsquo;s thinking machines operate well under narrow contexts but fail to accomplish elementary human tasks. Moreover, even in those areas where they work well, they require tremendous resources, and the pace of progress is grinding to a halt (Dellinger, 2).</description>
+    </item>
+    
+  </channel>
+</rss>

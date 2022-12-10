@@ -2,10 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://blog.ianmkim.com/about/</loc>
+    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://blog.ianmkim.com/tags/fayerabend/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://blog.ianmkim.com/posts/fayerabend_savior_of_science/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/philosophy/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/posts/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/science/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/</loc>
+    <lastmod>2022-03-13T15:30:07-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/ai/</loc>
+    <lastmod>2021-11-07T15:54:52-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/politics/</loc>
+    <lastmod>2021-11-07T15:54:52-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/posts/seize_the_means_of_production/</loc>
+    <lastmod>2021-11-07T15:54:52-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/ethics/</loc>
+    <lastmod>2021-10-15T15:47:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/posts/duty_to_drive/</loc>
+    <lastmod>2021-10-15T15:47:00-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/tags/heidegger/</loc>
+    <lastmod>2021-01-29T16:36:59-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/posts/reviving_ai_through_heidegger/</loc>
+    <lastmod>2021-01-29T16:36:59-04:00</lastmod>
+  </url><url>
+    <loc>https://blog.ianmkim.com/categories/</loc>
   </url>
 </urlset>
